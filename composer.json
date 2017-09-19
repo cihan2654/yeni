@@ -1,0 +1,19 @@
+{
+"name": " paketim/paketismim",
+"description": "Github test paketi.",
+"keywords": ["test","laravel","model dosyası"],
+"license": "MIT",
+"authors": [ 
+{ 
+  "name": "Cihan Çakır",
+  "email": "cihan_cakir98@hotmail.com
+  }
+  ],
+  "autoload": {
+  "psr-4": {
+  "paketim\\Paketismim\\": "src/"
+  }
+  },
+  "version" : "1.0.0." ,
+  "minimum-stability" : "dev" 
+  }
