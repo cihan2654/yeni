@@ -1,5 +1,5 @@
 {
-"name": "paketim/paketismim",
+"name": "paketcim/paketismicim",
 "description": "Github test paketim.",
 "keywords": ["test","laravel","model dosyası"],
 "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "autoload": {
   "psr-4": {
-  "Paketim\\Paketismim\\": "src/"
+  "Paketcim\\Paketismicim\\": "src/"
   }
   },
   "version" : "1.0.0" ,
